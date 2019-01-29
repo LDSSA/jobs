@@ -1,2 +1,3 @@
 # jobs
-Job Board for the LDSA
+
+The [issues](https://github.com/LDSSA/jobs/issues) are the job board!
